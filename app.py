@@ -6,6 +6,10 @@ def subtract(a, b):
     return a - b
 
 
+def multiply(a, b):
+    return a * b
+
+
 res1 = add(5, 3)
 res2 = subtract(10, 4)
 
